@@ -1,0 +1,6 @@
+Part 1
+Valid Records: 228
+Total Records: 257
+Part 2
+Valid Records: 175
+Total Records: 257

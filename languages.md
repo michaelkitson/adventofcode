@@ -1,6 +1,7 @@
 ~~Ruby~~
 ~~Lua~~
 ~~Cobol~~
+~~Swift~~
 JS
 Crystal
 Elixir
@@ -8,7 +9,6 @@ Erlang
 Python
 C
 C++
-Swift
 PHP
 Go
 Bash
