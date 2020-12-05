@@ -2,6 +2,7 @@
 ~~Lua~~
 ~~Cobol~~
 ~~Swift~~
+~~Bash~~
 JS
 Crystal
 Elixir
@@ -11,7 +12,6 @@ C
 C++
 PHP
 Go
-Bash
 Smalltalk
 Perl
 Java
