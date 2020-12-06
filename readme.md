@@ -3,12 +3,12 @@
 ~~Cobol~~
 ~~Swift~~
 ~~Bash~~
+~~C~~
 JS
 Crystal
 Elixir
 Erlang
 Python
-C
 C++
 PHP
 Go
