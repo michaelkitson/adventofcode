@@ -5,6 +5,7 @@ https://adventofcode.com/2020/
 For fun, I'm trying to complete the Advent of Code challenges using a different programming language each day!
 
 This is a speed contest (and this is all trash anyway) so don't judge my code quality :)
+I've never touched about half of these languages before.
 
 ## Completed days
 
