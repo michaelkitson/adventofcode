@@ -18,22 +18,28 @@ I've never touched about half of these languages before.
 
 ## Some languages left to use
 
-JS
-Crystal
-Elixir
-Erlang
-Python
-C++
-PHP
-Go
-Smalltalk
-Perl
-Java
-Forth
-Lisp
-Fortran
-Rust
-Ada
-Pascal
-Scheme
-Haskell
+- JS
+- Crystal
+- Elixir
+- Erlang
+- Python
+- C++
+- PHP
+- Go
+- Smalltalk
+- Perl
+- Java
+- Forth
+- Lisp
+- Fortran
+- Rust
+- Ada
+- Pascal
+- Scheme
+- Haskell
+- Nim
+- Kotlin
+- Tcl
+- Julia
+- AWK
+- R
