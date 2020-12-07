@@ -10,7 +10,7 @@ I've never touched about half of these languages before.
 ## Completed days
 
 - [Day 1: Ruby](1/1.rb)
-  Oh ruby, having [Array#combination](https://ruby-doc.org/core-2.7.2/Array.html#method-i-combination) was like cheating.
+  Oh ruby, having [Array#combination](https://ruby-doc.org/core-2.7.2/Array.html#method-i-combination) felt like cheating.
 - [Day 2: Lua](2/2.lua)
 - [Day 3: Cobol!](3/3.cbl)
   Bad documentation, but a very interesting and different experience. I'm looking forward to Fortran.
