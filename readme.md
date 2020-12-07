@@ -15,6 +15,7 @@ I've never touched about half of these languages before.
 - [Day 4: Swift](4/4.swift)
 - [Day 5: Bash](5/5.sh)
 - [Day 6: C (99)](6/6.c)
+- [Day 7: AWK](7/7.awk)
 
 ## Silly superlatives
 
@@ -47,5 +48,4 @@ I've never touched about half of these languages before.
 - Kotlin
 - Tcl
 - Julia
-- AWK
 - R
