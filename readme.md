@@ -27,7 +27,6 @@ I've never touched about half of these languages before.
 ## Some languages left to use
 
 - JS
-- Crystal
 - Elixir
 - Erlang
 - Python
