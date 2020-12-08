@@ -48,3 +48,4 @@ I've never touched about half of these languages before.
 - Tcl
 - Julia
 - R
+- Dart
