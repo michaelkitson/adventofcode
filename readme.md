@@ -21,6 +21,8 @@ I've never touched about half of these languages before.
 - [Day 6: C (99)](6/6.c)
 - [Day 7: AWK](7/7.awk)
   Not the best problem to have chosen awk for...
+- [Day 8: Crystal](8/8.cr)
+  Fun! I've toyed with writing simple interpreters before, so this was a nice throwback.
 
 ## Some languages left to use
 
