@@ -23,6 +23,8 @@ I've never touched about half of these languages before.
   Not the best problem to have chosen awk for...
 - [Day 8: Crystal](8/8.cr)
   Fun! I've toyed with writing simple interpreters before, so this was a nice throwback.
+- [Day 9: Tcl](9/9.tcl)
+  Intimidating looking, but very well explained in the [wiki](https://wiki.tcl-lang.org/page/Tcl+Tutorial+Lesson+0). Once I got moving, Tcl wasn't bad.
 
 ## Some languages left to use
 
@@ -44,7 +46,6 @@ I've never touched about half of these languages before.
 - Lisp
 - Smalltalk
 - Scheme
-- Tcl
 - Fortran
 - Pascal
 - Haskell
