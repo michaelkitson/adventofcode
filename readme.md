@@ -25,6 +25,8 @@ I've never touched about half of these languages before.
   Fun! I've toyed with writing simple interpreters before, so this was a nice throwback.
 - [Day 9: Tcl](9/9.tcl)
   Intimidating looking, but very well explained in the [wiki](https://wiki.tcl-lang.org/page/Tcl+Tutorial+Lesson+0). Once I got moving, Tcl wasn't bad.
+- [Day 10: Java](10/Ten.java)
+  I haven't used Java in a long while. Still not a fan...
 
 ## Some languages left to use
 
@@ -36,7 +38,6 @@ I've never touched about half of these languages before.
 - PHP
 - Go
 - Perl
-- Java
 - Nim
 - Julia
 - Dart
