@@ -27,6 +27,8 @@ I've never touched about half of these languages before.
   Intimidating looking, but very well explained in the [wiki](https://wiki.tcl-lang.org/page/Tcl+Tutorial+Lesson+0). Once I got moving, Tcl wasn't bad.
 - [Day 10: Java](10/Ten.java)
   I haven't used Java in a long while. Still not a fan...
+- [Day 11: PHP](11/11.php)
+  Building a cellular automaton. This felt like an interview question with an optimal solution I didn't know 😂.
 
 ## Some languages left to use
 
@@ -35,7 +37,6 @@ I've never touched about half of these languages before.
 - Erlang
 - Python
 - C++
-- PHP
 - Go
 - Perl
 - Nim
