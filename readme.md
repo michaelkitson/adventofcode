@@ -29,6 +29,8 @@ I've never touched about half of these languages before.
   I haven't used Java in a long while. Still not a fan...
 - [Day 11: PHP](11/11.php)
   Building a cellular automaton. This felt like an interview question with an optimal solution I didn't know 😂.
+- [Day 12: Nim](12/twelve.nim)
+  Surprisingly intuitive language, pretty fun!
 
 ## Some languages left to use
 
