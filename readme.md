@@ -31,6 +31,8 @@ I've never touched about half of these languages before.
   Building a cellular automaton. This felt like an interview question with an optimal solution I didn't know 😂.
 - [Day 12: Nim](12/twelve.nim)
   Surprisingly intuitive language, pretty fun!
+- [Day 13: Fortran](13/13.f90)
+  A thousand segfaults later, I finally solved it. What a pain. I should have used Fortran on an easier, earlier problem.
 
 ## Some languages left to use
 
@@ -41,7 +43,6 @@ I've never touched about half of these languages before.
 - C++
 - Go
 - Perl
-- Nim
 - Julia
 - Dart
 - Kotlin
@@ -50,7 +51,6 @@ I've never touched about half of these languages before.
 - Lisp
 - Smalltalk
 - Scheme
-- Fortran
 - Pascal
 - Haskell
 - Ada
