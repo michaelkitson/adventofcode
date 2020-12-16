@@ -35,6 +35,8 @@ I've never touched about half of these languages before.
   A thousand segfaults later, I finally solved it. What a pain. I should have used Fortran on an easier, earlier problem.
 - [Day 14: C++](14/14.cpp)
   Its been a while since I've written any C++, but the day of Fortran made it feel like heaven.
+- [Day 15: CoffeeScript](15/15.coffee)
+  A little terser than normal JS, and totally adequate, but I'm not surprised people started giving up on CoffeeScript a few years ago.
 
 ## Some languages left to use
 
