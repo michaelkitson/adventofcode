@@ -33,6 +33,8 @@ I've never touched about half of these languages before.
   Surprisingly intuitive language, pretty fun!
 - [Day 13: Fortran](13/13.f90)
   A thousand segfaults later, I finally solved it. What a pain. I should have used Fortran on an easier, earlier problem.
+- [Day 14: C++](14/14.cpp)
+  Its been a while since I've written any C++, but the day of Fortran made it feel like heaven.
 
 ## Some languages left to use
 
@@ -40,7 +42,6 @@ I've never touched about half of these languages before.
 - Elixir
 - Erlang
 - Python
-- C++
 - Go
 - Perl
 - Julia
