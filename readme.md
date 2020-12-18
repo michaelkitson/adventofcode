@@ -37,6 +37,8 @@ I've never touched about half of these languages before.
   Its been a while since I've written any C++, but the day of Fortran made it feel like heaven.
 - [Day 15: CoffeeScript](15/15.coffee)
   A little terser than normal JS, and totally adequate, but I'm not surprised people started giving up on CoffeeScript a few years ago.
+- [Day 16: Kotlin](16/16.kt)
+  Before this, I was skeptical of Kotlin, but I loved it! It was a total joy to use. Unfortunately, I got hung up on a silly off-by one error where I read one less input line than I needed and was stuck for a loooong time.
 
 ## Some languages left to use
 
@@ -48,7 +50,6 @@ I've never touched about half of these languages before.
 - Perl
 - Julia
 - Dart
-- Kotlin
 - R
 - Rust
 - Lisp
